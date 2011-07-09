@@ -1,0 +1,7 @@
+.DS_Store
+commit-message.txt
+contact-entry.json
+runner/
+target/
+src/main/resources/community-tab.csv
+src/main/resources/community.ldif
